@@ -5,7 +5,6 @@ An intermediate-level Machine Learning project that uses **Random Forest Regress
 
 
 ![Correlation Matrix](correlation_matrix.png)
-<img width="640" height="480" alt="correlation_matrix" src="https://github.com/user-attachments/assets/2e922632-21bc-4508-bf6e-9854e4bb8348" />
 
 
 ## 📌 Project Overview
@@ -33,3 +32,4 @@ The dataset contains **227 music tracks** with 22 features including:
    ```bash
 
    git clone [https://github.com/yourusername/music-popularity-prediction.git](https://github.com/Manaswini-26/MusicPopularity-Prediction.git)
+
